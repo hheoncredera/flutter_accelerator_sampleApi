@@ -1,14 +1,58 @@
 {
   "movies": [
     {
-      "title": "Star Wars",
-      "director": "George Lucas",
-      "type":"sifi"
+      "title": "Bee Movie",
+      "director": "Simon J. Smith",
+      "type": "other",
+      "summary": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship blossoms, he discovers humans actually eat honey and subsequently decides to sue them."
     },
     {
-      "title": "Happy Gilmore",
-      "director": "hello",
-      "type":"comedy"
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "type": "other",
+      "summary": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
+    },
+    {
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "type": "other",
+      "summary": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
+    },
+    {
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "type": "scifi",
+      "summary": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "title": "Forest Gump",
+      "director": "Robert Zemeckis",
+      "type": "comedy",
+      "summary": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+    },
+    {
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "director": "Irvin Kershner",
+      "type": "scifi",
+      "summary": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "director": "Peter Jackson",
+      "type": "other",
+      "summary": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+    },
+    {
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "type": "scifi",
+      "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+    },
+    {
+      "title": "The Matrix",
+      "director": "scifi",
+      "type": "Lana Wachowski",
+      "summary": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
     }
   ]
 }
