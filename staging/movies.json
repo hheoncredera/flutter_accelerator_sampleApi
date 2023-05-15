@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "type": "scifi",
+      "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+    },
+    {
+      "title": "The Matrix",
+      "director": "scifi",
+      "type": "Lana Wachowski",
+      "summary": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+    }
+    {
       "title": "The Shawshank Redemption",
       "director": "Frank Darabont",
       "type": "other",
@@ -35,18 +47,6 @@
       "director": "Peter Jackson",
       "type": "other",
       "summary": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
-    },
-    {
-      "title": "Inception",
-      "director": "Christopher Nolan",
-      "type": "scifi",
-      "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
-    },
-    {
-      "title": "The Matrix",
-      "director": "scifi",
-      "type": "Lana Wachowski",
-      "summary": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
     }
   ]
 }
