@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "title": "Bee Movie",
+      "director": "Simon J. Smith",
+      "type": "other",
+      "summary": "Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship blossoms, he discovers humans actually eat honey and subsequently decides to sue them."
+    },
+    {
       "title": "The Shawshank Redemption",
       "director": "Frank Darabont",
       "type": "other",
@@ -13,22 +19,10 @@
       "summary": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
     },
     {
-      "title": "The Dark Knight",
-      "director": "Christopher Nolan",
-      "type": "scifi",
-      "summary": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
-    },
-    {
       "title": "Forest Gump",
       "director": "Robert Zemeckis",
       "type": "comedy",
       "summary": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
-    },
-    {
-      "title": "Star Wars: Episode V - The Empire Strikes Back",
-      "director": "Irvin Kershner",
-      "type": "scifi",
-      "summary": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
     },
     {
       "title": "The Lord of the Rings: The Fellowship of the Ring",
